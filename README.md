@@ -85,7 +85,43 @@ Fim do programa
              fim_se
              
 - Composta: há verificação de exceção, então <!-- else -->
+    Exemplo: Se (<condição>) então
+                <instruções para condição verdadeira>
+             Senão 
+                <instruções para condição falsa>
+             fim_se
+
 - Encadeada: Sucessão de estruturas condicionais, se senão <!-- if else -->
+    Exemplo: Se (<condiçao 1>) então
+                <instruções para condição verdadeira>
+             Senão
+                Se (<condição 2>) então
+                    <instruções para: condição 2 verdadeira e condição 1 falsa>
+                Senão
+                    <instruções para condição 1 e 2 falsas>
+            fim_se
+
+Operadores booleanos
+
+AND: Todas devem ser satisfeitas
+    Exemplo: Curso de inglês
+            Se (gramatica.AND.conversacao) então
+                escreva "Aprovado"
+            senão
+                escreva "Reprovado"
+                
+OR: Condição verdadeira: apenas uma das condições deve ser verdadeira
+    Exemplo: se (choveu.OR.grama_molhada) então
+                escreva "Plantas regadas"
+             senão
+                escreva "Regar plantas"
+                
+                
+NOT: Operador de negação: inversão do resultado lógico
+    Exemplo: Not B -> tudo que não está em B 
+    
+###### Estrutura de repetição
+
 
 
 ------------------------------------------------------------
