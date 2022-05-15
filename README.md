@@ -35,7 +35,7 @@ Pilares do pensamento computacional
 
 
 
-<!------------------------------------------------------------>
+<!------------------------------------------------------------->
 
 ### Desafio de projeto
 Repositório criado para o Desafio de Projeto
