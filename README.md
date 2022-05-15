@@ -1,21 +1,25 @@
-# ANOTAÇÕES GFT START #5 .NET
+# ANOTAÇÕES GFT START #5 .NET #
 <!-- Módulo I - Fundamentos -->
 
-### Boas-vindas ao GFT Start #5 .NET 
--> Concluído
+### Boas-vindas ao GFT Start #5 .NET ###
+100% Concluído
+
 ------------------------------------------------------------
 
 ### Aula Inaugural - GFT Start #5 .NET
--> Concluído
-<!------------------------------------------------------------>
+100% Concluído
+
+------------------------------------------------------------
 
 ### Seja Protagonista neste Bootcamp
--> Concluído
-<!------------------------------------------------------------>
+100% Concluído
+
+------------------------------------------------------------
 
 ### Introdução ao Git e ao GitHub
--> Concluído
-<!------------------------------------------------------------>
+100% Concluído
+
+------------------------------------------------------------
 
 ### Introdução à Programação e Pensamento Computacional 
 Instrutora: Juliana Mascarenhas 
@@ -39,13 +43,13 @@ Pilares do pensamento computacional
 
 
 
-<!------------------------------------------------------------->
+------------------------------------------------------------
 
 ### Desafio de projeto
 Repositório criado para o Desafio de Projeto
 
 <!-- Links Úteis -->
 [Sintaxe Basica Markdown](https://www.markdownguide.org/)
--> Concluído
+100% Concluído
 
-<!------------------------------------------------------------>
+------------------------------------------------------------
