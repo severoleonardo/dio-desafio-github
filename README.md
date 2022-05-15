@@ -22,8 +22,8 @@
 ------------------------------------------------------------
 
 ### Introdução à Programação e Pensamento Computacional 
-###### Instrutora: Juliana Mascarenhas 
-###### Cientista de dados
+###### Instrutora: Juliana Mascarenhas: Cientista de dados
+
 
 ###### Cursos na DIO 
 - Criando uma API REST conecta a Amazon RDS com Java
@@ -40,7 +40,15 @@
 - Abstração
 - Algoritmos
 
+###### Algoritmos
+Como construir um algoritmo?
 
+- Compreenção do problema
+- Definição dados de entrada
+- Definir processamento
+- Definir dados de saída
+- Utilizar um método de contrução
+- Teste e diagnóstico
 
 
 ------------------------------------------------------------
