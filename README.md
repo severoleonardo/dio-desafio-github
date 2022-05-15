@@ -22,7 +22,7 @@
 ------------------------------------------------------------
 
 ### Introdução à Programação e Pensamento Computacional 
-Instrutora: Juliana Mascarenhas 
+###### Instrutora: Juliana Mascarenhas 
 Cientista de dados
 
 ###### Cursos na DIO 
