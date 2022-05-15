@@ -2,16 +2,19 @@
 <!-- Módulo I - Fundamentos -->
 
 ### Boas-vindas ao GFT Start #5 .NET 
-[Concluído!]
+-> Concluído
 <!------------------------------------------------------------>
 
-### Aula Inaugural - GFT Start #5 .NET <!-- Concluído -->
+### Aula Inaugural - GFT Start #5 .NET
+-> Concluído
 <!------------------------------------------------------------>
 
-### Seja Protagonista neste Bootcamp <!-- Concluído -->
+### Seja Protagonista neste Bootcamp
+-> Concluído
 <!------------------------------------------------------------>
 
-### Introdução ao Git e ao GitHub <!-- Concluído -->
+### Introdução ao Git e ao GitHub
+-> Concluído
 <!------------------------------------------------------------>
 
 ### Introdução à Programação e Pensamento Computacional 
@@ -43,6 +46,6 @@ Repositório criado para o Desafio de Projeto
 
 <!-- Links Úteis -->
 [Sintaxe Basica Markdown](https://www.markdownguide.org/)
-
+-> Concluído
 
 <!------------------------------------------------------------>
