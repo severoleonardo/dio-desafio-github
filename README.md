@@ -124,6 +124,14 @@ NOT: Operador de negação: inversão do resultado lógico
 
 
 
+###### Vetores e matrizes
+
+Vetor: Vetores são caracterizados por uma variável dimensionada com tamanho pré-fixado."
+ 
+
+
+
+
 ------------------------------------------------------------
 
 ### Desafio de projeto
