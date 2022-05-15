@@ -60,8 +60,32 @@ Como construir um algoritmo?
 - Variável: pode assumir qualquer um dos valores de um determinado conjunto de valores
 
 ###### Instruções Primitivas
+- Instruções são linguagem de palavras-chave
 
+Exemplo de instrução: média escolar
 
+Início programa:
+
+  Nota1 = 5 <!-- variável -->
+  Nota2 = 8
+  Resultado = 0
+  
+  Resultado = (Nota1 + Nota2)/2 <!-- constante -->
+  
+  Escreva resultado 
+  Saída = 6.5 
+  
+Fim do programa
+
+###### Estrutura condicional
+
+- Simples: apenas verifica se a condição foi satisfeita, se <!-- if -->
+    Exemplo: Se (<condição>) então
+                <instruções para condição verdadeira>
+             fim_se
+             
+- Composta: há verificação de exceção, então <!-- else -->
+- Encadeada: Sucessão de estruturas condicionais, se senão <!-- if else -->
 
 
 ------------------------------------------------------------
