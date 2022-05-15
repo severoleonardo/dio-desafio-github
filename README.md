@@ -50,6 +50,19 @@ Como construir um algoritmo?
 - Utilizar um método de contrução
 - Teste e diagnóstico
 
+###### Tecnicas de lógica de programação
+- Técnica linear
+- Técnica estruturada
+- Técnica modular
+
+###### Tipologia e variáveis
+- Os tipos de dados: numéricos, caracterese booleano  
+- Variável: pode assumir qualquer um dos valores de um determinado conjunto de valores
+
+###### Instruções Primitivas
+
+
+
 
 ------------------------------------------------------------
 
