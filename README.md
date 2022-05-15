@@ -34,7 +34,7 @@ Cientista de dados
 2 - Automatização: Expressão de solução
 3 - Análise: Execução da solução e avaliação (refinamento) 
 
-Pilares do pensamento computacional
+###### Pilares do pensamento computacional
 1 - Decomposição
 2 - Padrões
 3 - Abstração
