@@ -1,7 +1,8 @@
 # ANOTAÇÕES GFT START #5 .NET
 <!-- Módulo I - Fundamentos -->
 
-### Boas-vindas ao GFT Start #5 .NET <!-- Concluído -->
+### Boas-vindas ao GFT Start #5 .NET 
+[Concluído!]
 <!------------------------------------------------------------>
 
 ### Aula Inaugural - GFT Start #5 .NET <!-- Concluído -->
