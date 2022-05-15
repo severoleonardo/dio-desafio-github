@@ -30,15 +30,15 @@ Cientista de dados
 - Criando um Microssserviço de Upload de Imagens com o Amazon S3
 - Java Spring com RabbitMQ
 
-1 - Abstração: Resolução de problemas
-2 - Automatização: Expressão de solução
-3 - Análise: Execução da solução e avaliação (refinamento) 
+- Abstração: Resolução de problemas
+- Automatização: Expressão de solução
+- Análise: Execução da solução e avaliação (refinamento) 
 
 ###### Pilares do pensamento computacional
-1 - Decomposição
-2 - Padrões
-3 - Abstração
-4 - Algoritmos
+- Decomposição
+- Padrões
+- Abstração
+- Algoritmos
 
 
 
