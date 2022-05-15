@@ -2,28 +2,28 @@
 <!-- Módulo I - Fundamentos -->
 
 ### Boas-vindas ao GFT Start #5 .NET ###
-100% Concluído
+###### 100% Concluído
 
 ------------------------------------------------------------
 
 ### Aula Inaugural - GFT Start #5 .NET
-100% Concluído
+###### 100% Concluído
 
 ------------------------------------------------------------
 
 ### Seja Protagonista neste Bootcamp
-100% Concluído
+###### 100% Concluído
 
 ------------------------------------------------------------
 
 ### Introdução ao Git e ao GitHub
-100% Concluído
+###### 100% Concluído
 
 ------------------------------------------------------------
 
 ### Introdução à Programação e Pensamento Computacional 
 ###### Instrutora: Juliana Mascarenhas 
-Cientista de dados
+###### Cientista de dados
 
 ###### Cursos na DIO 
 - Criando uma API REST conecta a Amazon RDS com Java
@@ -50,6 +50,6 @@ Repositório criado para o Desafio de Projeto
 
 <!-- Links Úteis -->
 [Sintaxe Basica Markdown](https://www.markdownguide.org/)
-100% Concluído
+###### 100% Concluído
 
 ------------------------------------------------------------
